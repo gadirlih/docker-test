@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I have changed
+          Someone changed me
         </a>
       </header>
     </div>

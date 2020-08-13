@@ -13,9 +13,9 @@ script:
 deploy:
     provider: elasticbeanstalk
     access_key_id:
-        secure: "$AWS_ACCESS_KEY"
+        secure: "$AWS_ACCESS_KEY2"
     secret_access_key:
-        secure: "$AWS_SECRET_KEY"
+        secure: "$AWS_SECRET_KEY2"
     region: "us-east-1"
     app: "docker-test"
     env: "DockerTest-env"

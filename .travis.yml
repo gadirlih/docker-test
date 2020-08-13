@@ -23,4 +23,4 @@ deploy:
     bucket_path: "docker-test"
     on:
         branch: master
-        
+    
